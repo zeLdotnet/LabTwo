@@ -1,0 +1,65 @@
+body {
+	background-color: black;
+	color: lightgrey;
+	opacity: 0.85;
+}
+
+header, .intro {
+	text-align: center;
+}
+
+header h1 {
+	background-color: slategrey;
+	border; 1.5px dashed white;
+	margin-top: 0;
+}
+
+.navi, a {
+	text-align: center;
+	padding: 10px;
+	color: blue;
+}
+
+a:hover {
+	color: white;
+	font-size: 24px:
+}
+
+img.align-center {
+	display: block;
+	margin: auto;
+	width: 750px;
+	height: 500px;
+	border: 2px outset white;
+}
+
+
+div.tile{
+	width: 25%;
+	display: inline-block;
+	border: 1px solid white;
+	margin: 1%;
+	padding: 1%;
+	background-color: maroon;
+}
+
+img.port{
+	width: 100%;
+	padding: auto;
+	display: inline-block;
+}
+
+.wrapper{
+	padding: 1%;
+
+}
+
+.top, .bot{
+	text-align: center;
+	font-family: "Comic Sans MS";
+}
+
+.top{
+	font-size: 24px;
+	padding: 5%;
+}
