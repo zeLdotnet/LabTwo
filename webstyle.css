@@ -63,3 +63,25 @@ img.port{
 	font-size: 24px;
 	padding: 5%;
 }
+
+
+@media (min-width: 300px){
+	div.tile{
+		width: 25%
+	}
+}
+
+
+
+@media (max-width: 1300px){
+	div.tile{
+		width: 40%;
+	}
+}
+
+@media (max-width: 475px){
+	div.tile{
+		width: 75%;
+	}
+}
+
